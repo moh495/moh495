@@ -2,7 +2,7 @@
 
 Hi there, I'm **Nadjib Salhi**, a **M.sc Automation and Control engineering**.
 
-I am **[Nadjib Salhi](https://en.wikipedia.org/wiki/Uyghurs)**,. Now I am Automation and Control engineering **[HUST](http://english.hust.edu.cn/)**.
+I am **[Nadjib Salhi](https://en.wikipedia.org/wiki/Uyghurs)**,. Now I am Automation and Control engineering **[Ex-INH](https://fs.univ-boumerdes.dz/)**.
 
 I love ML/DL.
 
