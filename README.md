@@ -2,7 +2,7 @@
 
 Hi there, I'm **Nadjib Salhi**, a **M.sc Automation and Control engineering & Data Science enthusiast**.
 
-I am **[Nadjib Salhi](https://en.wikipedia.org/wiki/Uyghurs)**,. Now I am Automation and Control engineering Student at **[Ex-INH](https://fs.univ-boumerdes.dz/)**.
+I am **[Nadjib Salhi](https://www.linkedin.com/in/mohammed-nadjib-allah-salhi-79669419a/)**,. Now I am Automation and Control engineering Student at **[Ex-INH](https://fs.univ-boumerdes.dz/)**.
 
 ### Talking about Personal Stuffs:
 
