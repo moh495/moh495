@@ -4,8 +4,6 @@ Hi there, I'm **Nadjib Salhi**, a **M.sc Automation and Control engineering & Da
 
 I am **[Nadjib Salhi](https://en.wikipedia.org/wiki/Uyghurs)**,. Now I am Automation and Control engineering Student at **[Ex-INH](https://fs.univ-boumerdes.dz/)**.
 
-I love ML/DL.
-
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently a automation and control engineering student at my 4th year; 
