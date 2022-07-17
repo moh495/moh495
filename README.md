@@ -33,6 +33,6 @@ In my spare time, I make machine learning courses in Darija (Algerian Arabic), c
 
 ### My GitHub Stats
 
-![moh495's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
+![moh495's github stats](https://github-readme-stats.vercel.app/api?username=moh495&show_icons=true)
 
 ⭐️ From [moh495](https://github.com/moh495)
